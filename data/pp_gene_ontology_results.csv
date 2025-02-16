@@ -1,0 +1,29 @@
+term.name,p.value,gene.count,cell.type,regulated
+neuron projection,6e-18,64,Radial glia,up
+nervous system development,1.34e-16,86,Radial glia,up
+neuron development,3.78e-16,58,Radial glia,up
+neurogenesis,1.06e-13,68,Radial glia,up
+synapse,5.81e-13,47,Radial glia,up
+axon development,6.28e-10,30,Radial glia,up
+cell migration,2.26e-09,51,Radial glia,up
+neuron projection,3.51e-10,39,Radial glia,down
+nervous system development,1.6e-09,53,Radial glia,down
+growth,1.13e-07,33,Radial glia,down
+extracellular matrix,1.98e-07,20,Radial glia,down
+negative regulation of neurogenesis,4.69e-07,16,Radial glia,down
+cell junction,8.04e-07,34,Radial glia,down
+regulation of metabolic process,0.0173,84,Radial glia,down
+neurogenesis,2.15e-17,55,Intermediate progenitors,up
+synapse,2.85e-15,38,Intermediate progenitors,up
+nervous system development,2.97e-15,60,Intermediate progenitors,up
+neuron projection development,2.89e-14,38,Intermediate progenitors,up
+cell migration,2.12e-07,33,Intermediate progenitors,up
+axon development,3.44e-07,19,Intermediate progenitors,up
+cell junction,4.63e-07,32,Intermediate progenitors,up
+neurogenesis,2.15e-17,55,Intermediate progenitors,down
+nervous system development,2.97e-15,60,Intermediate progenitors,down
+neuron projection,1.07e-11,39,Intermediate progenitors,down
+cell differentiation,2.5e-11,78,Intermediate progenitors,down
+cell projection,3.29e-10,51,Intermediate progenitors,down
+axonogenesis,1.81e-05,16,Intermediate progenitors,down
+regulation of metabolic process,0.00475,79,Intermediate progenitors,down
